@@ -1,3 +1,23 @@
-@use "./base.scss";
+.jojo-wrapper {
+  width: 400px;
+  margin: auto;
+}
 
-// put your custom CSS here!
+.jojo-label {
+  font-family: sans-serif;
+  font-size: 12px;
+  fill: black;
+  text-anchor: middle;
+}
+
+.jojo-rank {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.jojo-polygon {
+  fill: rgba(255, 0, 0, 0.5);
+  stroke: red;
+  stroke-width: 2;
+  transition: all 0.3s ease;
+}
