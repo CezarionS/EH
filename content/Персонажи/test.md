@@ -1,0 +1,67 @@
+---
+title: 🌟 Гелла
+---
+
+# <span style="color: #47d0ee;">Гелла</span>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
+
+<div style="flex: 1; min-width: 280px; max-width: 350px;">
+  <img src="static/Gella.jpg" style="width: 100%; border-radius: 8px; border: 2px solid #444; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
+  <div style="text-align: center; margin-top: 10px; font-style: italic; color: #888;">
+    «Пусть миры рушатся, пусть законы реальности нас отвергают — я выбираю быть с тобой. Наша связь прочнее самого Горизонта событий»
+  </div>
+</div>
+
+<div style="flex: 1.5; min-width: 300px;">
+
+> [!abstract] Личное дело
+> * **Полное имя:** — Гелласия
+> * **Прозвища:** — «Госпожа Гелла» (от Золотой сад), «Старуха; Старая ведьма» (от [[Агния]]);
+> * **Раса:** — Человек
+> * **Возраст:** — 100+ лет
+> * **Рост:** — 163 см
+> * **Мировоззрение:** — Законно-нейтральное (Предположительно)
+> * **Род занятий:** — Администратор Золотого сада
+> * **Фракция:** — [[Организации и союзы#Золотой сад|Золотой сад]]
+> * **Родня:** — Неизвестно
+> * **Статус:** — <span style="color: #4caf50;">**ДЕЕСПОСОБЕН**</span>
+
+</div>
+
+</div>
+
+---
+
+### ⚔️ Уровень сил
+
+| Параметр | Уровень | Шкала |
+| :--- | :--- | :--- |
+| **Маг. сила** | <span style="color: #9c27b0;">Запредельный</span> | <div style="width: 120px; background: #333; height: 10px; border-radius: 5px;"><div style="width: 100%; background: #9c27b0; height: 10px; border-radius: 5px;"></div></div> |
+| **Физ. сила** | <span style="color: #f44336;">Нулевой</span> | <div style="width: 120px; background: #333; height: 10px; border-radius: 5px;"><div style="width: 0%; background: #f44336; height: 10px; border-radius: 5px;"></div></div> |
+| **Выносливость** | <span style="color: #4caf50;">Нулевой</span> | <div style="width: 120px; background: #333; height: 10px; border-radius: 5px;"><div style="width: 0%; background: #4caf50; height: 10px; border-radius: 5px;"></div></div> |
+| **Интеллект** | <span style="color: #2196f3;">Запредельный</span> | <div style="width: 120px; background: #333; height: 10px; border-radius: 5px;"><div style="width: 100%; background: #2196f3; height: 10px; border-radius: 5px;"></div></div> |
+
+---
+
+### ✨ Уникальный навык
+> [!tip] **Неизвестно**
+> Неизвестно
+
+---
+
+### 💞 Отношения
+
+| Персонаж | Отношение | Шкала |
+| :--- | :--- | :--- |
+| **[[Нацуки Субару]]** | <span style="color: #4caf50;">Союзники</span> | <div style="width: 120px; background: #333; height: 10px; border-radius: 5px;"><div style="width: 75%; background: #4caf50; height: 10px; border-radius: 5px;"></div></div> |
+| **[[Герхард фон Хофманн]]** | <span style="color: #4caf50;">Союзники</span> | <div style="width: 120px; background: #333; height: 10px; border-radius: 5px;"><div style="width: 75%; background: #4caf50; height: 10px; border-radius: 5px;"></div></div> |
+| **[[Годжо Сатору]]** | <span style="color: #78909c;">Холодный нейтралитет</span> | <div style="width: 120px; background: #333; height: 10px; border-radius: 5px;"><div style="width: 25%; background: #78909c; height: 10px; border-radius: 5px;"></div></div> |
+| **[[Фири]]** | <span style="color: #4caf50;">Союзники</span> | <div style="width: 120px; background: #333; height: 10px; border-radius: 5px;"><div style="width: 75%; background: #4caf50; height: 10px; border-radius: 5px;"></div></div> |
+
+---
+
+### 📖 Описание персонажа
+Хрупкая внешность Администратора обманчива: за её изящным обликом скрывается колоссальная магическая мощь. Несмотря на почти полное отсутствие физической выносливости, в искусстве манипуляции маной она не уступает Офелии.
+
+На её плечах лежит колоссальная ответственность: Гелла является «сердцем» «Золотого сада». Она поддерживает целостность самой структуры организации, обеспечивая безупречную работоспособность всех помещений и систем. Помимо этого, в её прямое подчинение входят Кристаллическая и Элитная гвардии, что делает её не только стражем порядка, но и непревзойденным тактиком в вопросах обороны.
